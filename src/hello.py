@@ -1,1 +1,1 @@
-print("Hello!")
+print("Do subscribe the channel")
